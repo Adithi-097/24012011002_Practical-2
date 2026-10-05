@@ -73,13 +73,7 @@ app/
 
 When the application starts, `onCreate()` is called first. As the user interacts with the application or changes its state, different lifecycle methods are triggered. Each method displays its name in **Logcat** and through a **Toast message**, making the Activity Life Cycle easy to observe.
 
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/b64b65d9-2dd5-4bd1-94e9-3d2090d5c376" />
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/10ec9803-c1c7-47f3-be7d-cc1bcc5c3d99" />
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/b00e239d-6ed5-403a-9b6a-835cf8c91508" />
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/f950f7fd-ba99-4b0a-b7b4-08d4689b975e" />
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/1769ba9c-34db-4d8e-834d-a127f3b98e79" />
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/153b7559-245a-4036-b95f-03595f84890f" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/7a544c97-08ff-4ceb-9236-69a91d5a23b4" />
+|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/b64b65d9-2dd5-4bd1-94e9-3d2090d5c376" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/10ec9803-c1c7-47f3-be7d-cc1bcc5c3d99" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/b00e239d-6ed5-403a-9b6a-835cf8c91508" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/f950f7fd-ba99-4b0a-b7b4-08d4689b975e" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/1769ba9c-34db-4d8e-834d-a127f3b98e79" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/153b7559-245a-4036-b95f-03595f84890f" />|<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/7a544c97-08ff-4ceb-9236-69a91d5a23b4" />
 
 
 ## Conclusion
